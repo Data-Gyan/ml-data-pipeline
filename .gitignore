@@ -1,0 +1,11 @@
+.env/*
+.idea
+venv/
+*.egg-info
+logs/*
+*.log
+*.pyc
+Credential.md
+env/
+test.py
+Untitled.ipynb
